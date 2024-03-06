@@ -16,7 +16,7 @@ def kelvin_para_celsius(kelvin):
 
 if __name__ == "__main__":
     cidade = input("Digite o nome da cidade: ")
-    chave_api = "cff457ab15170d3438221605ba4fb23c"  # Substitua com sua chave de API OpenWeatherMap
+    chave_api = "cff457ab15170d3438221605ba4fb23c" 
 
     previsao_tempo = obter_previsao_tempo(cidade, chave_api)
 
