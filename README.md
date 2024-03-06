@@ -1,2 +1,3 @@
 # API_temperatura_Python
-C
+Uma API de previsão de temperatura em Python
+
